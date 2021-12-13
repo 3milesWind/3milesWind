@@ -11,10 +11,11 @@
 ### HighLight Repositories
 #### [1. Search and Optimization][Search-and-Optimization]
 #### [2. EZCompus][EzCompus]
+#### [3. TrionLink DataBase][Database]
 <!--END_SECTION:activity-->
  
  ### Career journey
- #### Software Development Engineer Intern @ LMQ Construction Inc. – Sunnyvale, CA July 2021 – Sep 2021
+ #### Software Development Engineer Intern @ LMQ Construction Inc. – Sunnyvale, CA.  July 2021 – Sep 2021
 
 ### Connect with me:
 
@@ -48,6 +49,7 @@
 <br />
 
 [Search-and-Optimization]: https://github.com/3milesWind/Seach_and_Optimization
+[Database]: https://github.com/3milesWind/TrionLink-DataBase
 [website]: https://www.linkedin.com/in/4645/
 [linkedin]: https://www.linkedin.com/in/4645/
 [EzCompus]: https://github.com/UCSD-Code-Farmers
