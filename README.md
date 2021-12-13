@@ -7,14 +7,11 @@
 - 🥅 2020 Goals: Graduated and found full-time
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
----
+--
 ### HighLight Repositories
 #### [1. Search and Optimization][Search-and-Optimization]
 <!--END_SECTION:activity-->
-
-<br />
-<br />
--- 
+ 
 
 ### Connect with me:
 
@@ -24,8 +21,6 @@
 
 <br />
 <br />
-
---
 
 ### Languages and Tools:
 
