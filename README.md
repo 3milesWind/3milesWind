@@ -10,6 +10,7 @@
 --
 ### HighLight Repositories
 #### [1. Search and Optimization][Search-and-Optimization]
+#### [2. EZCompus][EzCompus]
 <!--END_SECTION:activity-->
  
 
@@ -45,8 +46,9 @@
 <br />
 
 [Search-and-Optimization]: https://github.com/3milesWind/Seach_and_Optimization
-
+[website]: https://www.linkedin.com/in/4645/
 [linkedin]: https://www.linkedin.com/in/4645/
+[EzCompus]: https://github.com/UCSD-Code-Farmers
 [webdevplaylist]: #
 [jsplaylist]: #
 [cssplaylist]: #
