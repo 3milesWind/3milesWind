@@ -13,7 +13,7 @@
 #### [2. EZCompus][EzCompus]
 <!--END_SECTION:activity-->
  
- ### Carrer Path
+ ### Career journey
  #### Software Development Engineer Intern @ LMQ Construction Inc. – Sunnyvale, CA July 2021 – Sep 2021
 
 ### Connect with me:
