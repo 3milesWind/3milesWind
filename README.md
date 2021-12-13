@@ -10,14 +10,15 @@
 ### Connect with me:
 
 <!-- [<img align="left" alt="#" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
-[<img align="left" alt="# | LinkedIn" color= "blue" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="# | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 <br />
 <br />
 
 --
-
+### HighLight Repositories
+[Search and Optimization][Search-and-Optimization]
 <!--END_SECTION:activity-->
 
 ### Languages and Tools:
@@ -42,11 +43,8 @@
 <br />
 <br />
 
-[website]: #
-<!-- [course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr -->
+[Search-and-Optimization]: https://github.com/3milesWind/Seach_and_Optimization
+
 [linkedin]: https://www.linkedin.com/in/4645/
 [webdevplaylist]: #
 [jsplaylist]: #
