@@ -18,7 +18,7 @@
 
 --
 ### HighLight Repositories
-[## Search and Optimization][Search-and-Optimization]
+#### [Search and Optimization][Search-and-Optimization]
 <!--END_SECTION:activity-->
 
 ### Languages and Tools:
