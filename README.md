@@ -9,9 +9,10 @@
 
 --
 ### HighLight Repositories
-#### [1. Search and Optimization][Search-and-Optimization]
-#### [2. EZCompus][EzCompus]
-#### [3. TrionLink DataBase][Database]
+#### [1. Search and Optimization (python, Algorithms)][Search-and-Optimization]
+#### [2. Sokoban game (haskll)][Sokoban-game]
+#### [3. EZCompus (React.js, Express.js)][EzCompus]
+#### [4. TrionLink DataBase (Java, Sql)][Database]
 <!--END_SECTION:activity-->
  
  ### Career journey
@@ -49,6 +50,7 @@
 <br />
 
 [Search-and-Optimization]: https://github.com/3milesWind/Seach_and_Optimization
+[Sokoban-game]:https://github.com/3milesWind/Sokoban-game
 [Database]: https://github.com/3milesWind/TrionLink-DataBase
 [website]: https://www.linkedin.com/in/4645/
 [linkedin]: https://www.linkedin.com/in/4645/
