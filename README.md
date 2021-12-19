@@ -14,7 +14,9 @@
 #### [3. EZCompus (React.js, Express.js)][EzCompus]
 #### [4. TrionLink DataBase (Java, Sql)][Database]
 <!--END_SECTION:activity-->
- 
+### Learning footprint
+ #### [1.Vue.js][Vue.js]
+ -- 
  ### Career journey
  #### Software Development Engineer Intern @ LMQ Construction Inc. – Sunnyvale, CA.  July 2021 – Sep 2021
 
@@ -49,13 +51,16 @@
 <br />
 <br />
 
+<!-- Project links -->
 [Search-and-Optimization]: https://github.com/3milesWind/Seach_and_Optimization
 [Sokoban-game]:https://github.com/3milesWind/Sokoban-game
 [Database]: https://github.com/3milesWind/TrionLink-DataBase
-[website]: https://www.linkedin.com/in/4645/
 [linkedin]: https://www.linkedin.com/in/4645/
 [EzCompus]: https://github.com/UCSD-Code-Farmers
-[webdevplaylist]: #
-[jsplaylist]: #
-[cssplaylist]: #
-[reactplaylist]: #
+
+<!-- learning footprint -->
+[Vue.js]: https://github.com/3milesWind/Vue.js_evolution
+
+
+
+[website]: https://www.linkedin.com/in/4645/
