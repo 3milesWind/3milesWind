@@ -15,7 +15,7 @@
 #### [4. TrionLink DataBase (Java, Sql)][Database]
 <!--END_SECTION:activity-->
 ### Learning footprint
- #### [1. TypeScirpt_React][https://github.com/3milesWind/React_typeScript]
+ #### [1. TypeScirpt_React][TypeScirpt_React]
  #### [1.Vue.js][Vue.js]
 
  ### Career journey
