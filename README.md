@@ -16,7 +16,7 @@
 <!--END_SECTION:activity-->
 ### Learning footprint
  #### [1. TypeScirpt_React][TypeScirpt_React]
- #### [1.Vue.js][Vue.js]
+ #### [2.Vue.js][Vue.js]
 
  ### Career journey
  #### Software Development Engineer Intern @ Ark Technology – San Diego, CA.  November 2021 – present
