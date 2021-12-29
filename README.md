@@ -15,9 +15,11 @@
 #### [4. TrionLink DataBase (Java, Sql)][Database]
 <!--END_SECTION:activity-->
 ### Learning footprint
+ #### [1. TypeScirpt_React][https://github.com/3milesWind/React_typeScript]
  #### [1.Vue.js][Vue.js]
 
  ### Career journey
+ #### Software Development Engineer Intern @ Ark Technology – San Diego, CA.  November 2021 – present
  #### Software Development Engineer Intern @ LMQ Construction Inc. – Sunnyvale, CA.  July 2021 – Sep 2021
 
 ### Connect with me:
@@ -60,7 +62,7 @@
 
 <!-- learning footprint -->
 [Vue.js]: https://github.com/3milesWind/Vue.js_evolution
-
+[TypeScirpt_React]: https://github.com/3milesWind/React_typeScript
 
 
 [website]: https://www.linkedin.com/in/4645/
